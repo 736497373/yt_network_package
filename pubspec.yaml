@@ -1,0 +1,12 @@
+name: yt_network_package
+description: 移通 - flutter 网络层
+version: 0.0.1
+homepage: https://github.com/736497373/yt_network_package.git
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^3.0.10
